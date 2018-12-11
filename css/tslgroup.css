@@ -1,0 +1,559 @@
+.navbar-custom{
+    background-color: #a1b43a !important;
+}
+.nav2{
+    background-color: #8d1010;
+    height: 60px;
+} 
+
+body{
+    color: #fff;
+    background-color: #f2f2f8;
+    font-family: 'Open Sans';
+}
+
+.icons{
+   
+    vertical-align: middle;
+}
+
+.bg-custom{
+    background-color: #002244 !important;
+}
+
+.contacts{
+    vertical-align: middle;
+}
+.langues{
+    text-transform: uppercase;
+    font-family: 'Open Sans';
+    font-weight: 600;
+    font-size: 14px;
+    transition-property: color;
+    transition-timing-function: ease-in;
+    transition-duration: 277ms;
+}
+ .langues:hover{
+    text-decoration: none;
+    color:#a1b43a;
+}
+.tslmenu{
+   text-transform: uppercase;
+   font-family: 'Open Sans';
+   font-size: 15px;
+   color: #617c96;
+   font-weight: 600;
+}
+
+.blue{
+    color:#617c96;
+}
+.nav-item > a{
+    transition-property: color;
+    transition-timing-function: ease-in-out;
+    transition-duration: 277ms;
+}
+.nav-item  a:hover{
+    color : #a1b43a !important;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color:#a1b43a !important;
+}
+.green{
+    color:#a1b43a;
+    font-weight: 900;
+}
+
+.slide_block{
+    height: auto;
+    overflow: hidden;
+}
+
+.description{
+    background-color: #002e5b;
+    height: auto;
+    font-family: 'Montserrat', 'Open Sans', 'Sans Serif';
+    color: #fff;
+    font-size: 15px;
+    font-weight: 900;
+    text-align: left;
+}
+
+.text-description{
+    font-family: 'Open Sans';
+    font-weight: 300;
+    font-size : 16px;
+    text-align: left;
+    
+}
+
+.titre{
+    color: #002e5b;
+    font-weight: 900;
+    font-size: 24pt;
+    font-family: Montserrat;
+}
+.titre2{
+    color: #fff;
+    font-weight: 600;
+    font-size: bold;
+    font-family: Montserrat;
+}
+.services{
+    text-align: center;
+    font-family: Montserrat;
+    text-transform: uppercase;
+}
+
+.icone-cercle{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #002e5b;
+}
+
+.description-service > h4{
+    font-family: Montserrat;
+    color: #002e5b;
+    text-transform: none;
+    margin-left: 1em;
+    font-weight: bold;
+}
+
+.description-service > p{
+   text-transform: none;
+}
+
+.five-reasons{
+    background-color: #f6f6f6;
+    height: auto;
+}
+
+.titre-reasons{
+    text-transform: uppercase;
+    font-family: Montserrat;
+    text-align: center;
+    color: #002e5b;
+    font-weight: bold;
+    font-size: 24pt;
+}
+.reason-text
+{
+    font-family: Montserrat;
+    color: #002e5b;
+    font-weight: bold;
+   
+}
+
+.btn-success{
+    background-color: #a1b43a ! important;
+    border-color: #a1b43a !important;
+    border-radius: 0px !important;
+    font-family: Montserrat  !important;
+    font-weight: bold  !important;
+    font-size :  16pt  !important;
+    width: 200px  !important;
+    transition-property: all;
+    transition-timing-function: ease-in;
+    transition-duration: 377ms;
+}
+.btn-success:hover{
+    background-color: #80ac0b!important;
+}
+
+.texte-training{
+    font-family: 'Open Sans';
+    font-size :20px;
+    color: #656564;
+    line-height: 31px;
+}
+.service{
+    line-height: 38px;
+    text-align: justify;
+}
+footer{
+    position:relative;
+    top:0px;
+    left:0px;
+    background-color: #002e5b;
+    height: auto;
+}
+
+.nom-service{
+    color: #fff;
+    font-family: Montserrat;
+    font-size: 18pt;
+}
+
+.business-contacts{
+    color : #fff;
+    line-height: 25pt;
+    font-family: 'Open Sans';
+    font-size:14pt;
+    font-weight: 300;
+}
+
+.business-contacts a{
+    color:#fff;
+    transition-property: all;
+    transition-duration: 277ms;
+    transition-timing-function: ease-in;
+}
+
+.business-contacts  a:hover,.business-contacts  a:focus{
+    text-decoration: none;
+    color:#80ac0b;
+    font-weight: 600;
+}
+
+.copyright{
+    position: relative;
+    bottom: -34px;
+    height: 40px;
+    background-color: #80ac0b;
+    text-align: center;
+    color: #fff;
+    font-size: 12pt;
+    font-weight: 300;
+}
+
+.links > a:hover{
+    text-decoration: none;
+}
+
+h5{
+    transition-property: all;
+    transition-duration: 277ms;
+    transition-timing-function: ease-in-out;
+}
+
+h5:hover{
+    color: #80ac0b;
+    
+}
+
+.active{
+    color: #a1b43a !important;
+}
+
+.banner{
+    background-image: url('./images/aboutus.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: auto;
+}
+
+.banner-training{
+    background-image: url('./images/training-big.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: auto;
+    
+}
+
+.training-style{
+    background-color:rgba(0,178,45,0.7);
+    position:relative;
+    bottom: -80px;
+}
+.training-style > h2{
+    color: #fff;
+    font-family: 'Open Sans';
+    font-size: 35px;
+    font-weight: bold;
+}
+.about-content{
+    padding-top: 13%;
+    padding-bottom: 13%;
+    text-align: center;
+    height: auto;
+}
+.about-content > div > h2{
+    font-family: 'Open Sans';
+    font-weight: bold;
+    font-size: 18px;
+}
+.about-content > h2{
+    color: #80ac0b;
+    font-weight: 700;
+    font-family: Montserrat;
+    color: #fff;
+}
+
+.story,.story-training{
+    background-color: #f2f2f2;
+    height: auto;
+}
+
+.story > .container > p,.vision > .container > p,.reason-block > span{
+    color: #656565;
+    font-family: 'Open Sans';
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 50px;
+}
+
+.skills-dev, .skills-design{
+    font-family: 'Open Sans';
+    font-weight: 300;
+    font-size: 30px;
+    color: #002e5b;
+    text-decoration: none;
+    line-height: 65px;
+    list-style: none;
+}
+/******* text above the course list******/
+.story-training{
+    background-color: #fff;
+}
+.story-training > div > ul, .story-training > div > p
+{
+    line-height: 35px;
+    font-size: 18px;
+    font-family: 'Open Sans';
+    color: #656565;
+    font-weight: 300;
+}
+
+/*course list block*/
+.course_list{
+    height: auto;
+    background-color: #f5f5f5;
+    
+}
+.card img{
+    border-style: solid;
+    border-color: #d9d9d9;
+    border-width: 1.5px;
+    
+}
+
+.card  h5{
+    font-family: 'Open Sans';
+    color: #617c96;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    transition: all;
+    transition-duration: 277ms;
+    transition-timing-function: ease-in;
+}
+.card{
+    transition: all;
+    transition-duration: 277ms;
+    transition-timing-function: ease-in;
+}
+.card:hover{
+    border-style: solid;
+    border-width: 2px;
+    border-color: #80ac0b !important;
+    
+}
+.card:hover img{
+    border-color: #a1b43a ;
+}
+.card:hover  h5{
+    cursor: pointer;
+    color: #80ac0b;
+}
+
+.btn-primary,.btn-small{
+    background-color: #00488f ! important;
+    border-color: #00488f !important;
+    border-radius: 0px !important;
+    font-family: Montserrat  !important;
+    font-weight: bold  !important;
+    font-size :  16pt  !important;
+    width: 200px  !important;
+}
+.btn-small{
+    width: 100px!important;
+    color: #fff;
+}
+/*** Contact page***/
+.contact-banner{
+    background-image: url('./images/map.jpg');
+    background-size: cover;
+    background-position: center;
+    height: auto;
+}
+
+.form-group > .form-control{
+    font-family: 'Open Sans';
+    color: #80ac0b!important;
+    font-size: 18px;
+    background-color: #f2f2f2!important;
+}
+
+.form-control:focus{
+    box-shadow: none!important;
+    border-color: #80ac0b!important;
+}
+
+.form-control::placeholder{
+    color: #656565!important;
+    font-family: 'Open Sans';
+    font-size: 15px;
+}
+
+.title-contact,.title-email,.tslname{
+    font-family: Montserrat;
+    color: #002e5b;
+    font-weight: bold;
+    font-size:30px;
+}
+.title-email
+{
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.tslname{
+    font-size:14px;
+    word-spacing: 8px;
+}
+
+/******  suite index.html ******/
+.caption-block{
+    background-color: rgba(0,46,91,0.8);
+    width: 45%;
+    
+}
+.caption-title{
+    text-transform: uppercase;
+    font-family:  Montserrat;
+    font-size: 30px;
+}
+.caption-text{
+    font-family:  Montserrat;
+    font-size: 20px;
+}
+
+/*** order page***/
+.order-banner{
+    background-image: url('./images/contract.jpg');
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    background-repeat: no-repeat;
+}
+
+.title{
+    color: #002e5b;
+    font-family: 'Open Sans';
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.sub-title{
+    color: #b2b1b1;
+    font-family: 'Open Sans';
+    font-size: 11pt;
+}
+
+.navbar-light .navbar-toggler{
+    background-color: #80ac0b;
+}
+
+/*loader management*/
+
+.pace-running .entire-content {
+    opacity: 0;
+    transition-property: opacity;
+    transition-timing-function: ease-in-out;
+    transition-duration: 277ms;
+}
+
+.pace-done > .entire-content {
+    opacity: 1;
+}
+
+/*Menus animations*/
+.animation {
+    opacity:0;
+}
+
+/* logo */
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+.slogan{
+    font-family: 'Open Sans';
+    font-size: 14px;
+    color: #80ac0b;
+    text-transform: none;
+}
+
+.name-enterprise{
+    font-family: Montserrat;
+    font-weight:800;
+    color: #00447b;
+    text-transform: none;
+    font-size: 40px;
+}
+
+/**/
+@media (min-width: 992px){
+
+    .navbar-expand-lg .navbar-nav .c1 {
+        padding-right: 0px!important;     
+    }
+
+   .navbar-expand-lg .navbar-nav .nav-link{
+        padding-left: .5em;
+    }
+
+}
+.langues::after{
+    display: block;
+    clear: both;
+}
+.presentation{
+    display: none;
+}
+@media only screen and (min-width:320px) and (max-width : 480px){
+    .bg-custom {
+        padding-left:0.5em;
+        line-height: 2em;
+    }
+
+    .langues{
+        float: left;
+    }
+
+    .lelogo{
+        display: none;
+    }
+
+    .lelogo img{
+        display: block;
+    }
+
+    .lelogo >div{
+        display: none;
+    }
+
+    .presentation{
+        display: block;
+    }
+
+    .overlay{
+        background-color: red;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        min-height: 700px;
+    }
+    
+}
+
+
+
+
+
